@@ -36,6 +36,12 @@ This project demonstrates VLAN segmentation using Cisco Packet Tracer. Two VLANs
 
 ---
 
+## 📸 Project Preview
+
+*Topology(vlan communication.png)
+
+---
+
 ## 👩‍💻 Author
 
 **Tabia Bassri Qazi**
